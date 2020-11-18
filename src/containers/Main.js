@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import './../index.css';
 import Nav from '../components/Nav';
 import Home from '../components/Home';
-// import Skills from '../components/Skills';
+import About from '../components/About';
 // import Portfolio from '../components/Portfolio';
 // import Contact from '../components/Contact';
 // import Footer from '../components/Footer';
@@ -18,10 +18,10 @@ function Main() {
     <div className='main-container'>
       <Nav />
       <Home />
-      {/* <Skills />
-      <Portfolio />
-      <Contact />
-      <Footer /> */}
+      <About />
+      {/* <Portfolio /> */}
+      {/* <Contact /> */}
+      {/* <Footer /> */}
     </div>
   );
 }

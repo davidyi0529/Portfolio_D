@@ -98,7 +98,7 @@
     font-size: 3rem;
   }
   
-  .skill-content {
+  .about-content {
     margin: 0.6rem 0;
     color: #9c72be;
     font-family: "Varela Round", sans-serif;
@@ -107,7 +107,7 @@
     font-size: 1.6rem;
   }
   
-  .skill-animation {
+  .about-animation {
     height: 60px;
     width: 100%;
     margin: 1rem 0;
@@ -129,7 +129,7 @@
   
   /* Skills */
   
-  .skills-container {
+  .about-container {
     font-family: "Exo 2", sans-serif;
     display: flex;
     color: rgb(0, 0, 0);
@@ -142,7 +142,7 @@
     min-height: 100vh;
   }
   
-  .skills-container h1 {
+  .about-container h1 {
     margin: 2rem 0;
   }
   
@@ -675,7 +675,7 @@
       font-size: 2rem;
     }
   
-    .skill-content {
+    .about-content {
       margin: 0.6rem 0;
       font-size: 1.2rem;
     }
@@ -691,7 +691,7 @@
   /* 415 */
   
   @media screen and (max-width: 415px) {
-    .skill-content {
+    .about-content {
       font-size: 1rem;
     }
   }
