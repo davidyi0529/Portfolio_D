@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import './../index.css';
 import Nav from '../components/Nav';
-// import Home from '../components/Home';
+import Home from '../components/Home';
 // import Skills from '../components/Skills';
 // import Portfolio from '../components/Portfolio';
 // import Contact from '../components/Contact';
@@ -17,8 +17,8 @@ function Main() {
   return (
     <div className='main-container'>
       <Nav />
-      {/* <Home />
-      <Skills />
+      <Home />
+      {/* <Skills />
       <Portfolio />
       <Contact />
       <Footer /> */}
