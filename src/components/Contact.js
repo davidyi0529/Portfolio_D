@@ -6,12 +6,11 @@ import Row from "react-bootstrap/Row";
 
 const Contact = () => {
   return (
-    <div id="contact">
+    <div id="contact" className="contact-container">
       <h1 className="pt-3 text-center font-details-b pb-3">CONTACT ME</h1>
       <Jumbotron className="contact-jumbotron">
         <Row>
           <Col className="d-flex justify-content-center flex-wrap">
-            {/* buttons */}
             <div className="m-2">
               <a href="mailto:david.yi.0529@gmail.com" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline-danger" title="david.yi.0529@gmail.com">

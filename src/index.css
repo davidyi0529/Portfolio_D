@@ -187,12 +187,22 @@
     color: rgb(0, 0, 0);
     font-size: 1.3rem;
     flex-direction: column;
+    font-weight: bold;
     padding: 2rem;
     align-items: center;
     justify-content: space-evenly;
     width: 100%;
-    min-height: 100vh;
+    min-height: 20px;
+    background-color: rgb(158, 173, 238);
   }
+
+  .contact-jumbotron {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(158, 173, 238);
+    }
+
+  
   
   .profile-image {
     margin: 1rem;
@@ -254,13 +264,6 @@
     text-align: center;
 }
 
-.contact-jumbotron {
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-  
-  /* General */
-  
   .button:hover {
     background-color: #fff;
     color: #55198b;
