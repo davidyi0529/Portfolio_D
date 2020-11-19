@@ -1,44 +1,50 @@
 [
       {
         "id": 1,
-        "name": "Project One",
-        "image": "https://via.placeholder.com/300",
-        "description": "A page that tracks time and lets you store notes.",
-        "link": "https://dcuadra85.github.io/5-calender-time-api/"
+        "name": "PetSpace",
+        "image": "https://github.com/davidyi0529/PetSpace/blob/main/public/images/kerwinPostDemo.gif?raw=true/300",
+        "description": "test",
+        "link": "https://dcuadra85.github.io/5-calender-time-api/",
+        "source": "https://dcuadra85.github.io/5-calender-time-api/"
       },
       {
         "id": 2,
-        "name": "Project Two",
-        "image": "https://via.placeholder.com/300",
-        "description": "A page that tracks time and lets you store notes.",
-        "link": "https://dcuadra85.github.io/5-calender-time-api/"
+        "name": "Muse",
+        "image": "https://raw.githubusercontent.com/davidyi0529/Muse/master/images/launch-page.png",
+        "description": "test",
+        "link": "https://dcuadra85.github.io/5-calender-time-api/",
+        "source": "https://dcuadra85.github.io/5-calender-time-api/"
       },
       {
         "id": 3,
-        "name": "Project Three",
-        "image": "https://via.placeholder.com/300",
-        "description": "A page that tracks time and lets you store notes.",
-        "link": "https://dcuadra85.github.io/5-calender-time-api/"
+        "name": "Simpsons-Memory-Game_D",
+        "image": "https://github.com/davidyi0529/Clicky-Game_D/raw/main/simpsons-memory-game_d/public/img/Mainpage.png?raw=true",
+        "description": "test",
+        "link": "https://dcuadra85.github.io/5-calender-time-api/",
+        "source": "https://dcuadra85.github.io/5-calender-time-api/"
       },
       {
         "id": 4,
-        "name": "Project Four",
-        "image": "https://via.placeholder.com/300",
-        "description": "A page that tracks time and lets you store notes.",
-        "link": "https://dcuadra85.github.io/5-calender-time-api/"
+        "name": "Note-Keeper_D",
+        "image": "https://github.com/davidyi0529/Note-Keeper_D/raw/main/public/assets/images/loadingpage.png?raw=true",
+        "description": "test",
+        "link": "https://dcuadra85.github.io/5-calender-time-api/",
+        "source": "https://dcuadra85.github.io/5-calender-time-api/"
       },
       {
         "id": 5,
-        "name": "Project Five",
-        "image": "https://via.placeholder.com/300",
-        "description": "A page that tracks time and lets you store notes.",
-        "link": "https://dcuadra85.github.io/5-calender-time-api/"
+        "name": "Workout-Tracker_D",
+        "image": "https://github.com/davidyi0529/Workout-Tracker_D/raw/main/public/images/front%20page.png?raw=true",
+        "description": "test",
+        "link": "https://dcuadra85.github.io/5-calender-time-api/",
+        "source": "https://dcuadra85.github.io/5-calender-time-api/"
       },
       {
         "id": 6,
-        "name": "Project Six",
-        "image": "https://via.placeholder.com/300",
-        "description": "A page that tracks time and lets you store notes.",
-        "link": "https://dcuadra85.github.io/5-calender-time-api/"
+        "name": "Weather-Dashboard_D",
+        "image": "https://github.com/davidyi0529/Weather-Dashboard_D/raw/master/Assets/images/Launch%20page.png?raw=true",
+        "description": "test",
+        "link": "https://dcuadra85.github.io/5-calender-time-api/",
+        "source": "https://dcuadra85.github.io/5-calender-time-api/"
       }
   ]

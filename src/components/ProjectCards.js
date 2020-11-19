@@ -1,25 +1,33 @@
 import React from "react";
+import { Button , CardGroup } from 'react-bootstrap'
 // import "./style.css";
 
 function ProjectCards(props) {
     return (
-        <div className="project-card">
+        <CardGroup className="project-card">
            <a href={props.link}>
 
                <div className="card col">
                    <img src={props.image} 
-                   style={{width:"200px", height:"200px"}}
+                   style={{width:"220px", height:"220px"}}
                    className="card-img-top project-icons"
                    alt={props.title}
                    target="_blank" />
 
                    <div className="card-body">
-                       <h3 className="card-title">{props.title}</h3>
-                       <p className="card-text">{props.description}</p>
+                       <p className="card-text">{props.name}</p>
                    </div>
+                   <div className='btn-grp'>
+                        <Button href={props.demo} target='_blank'>
+                            Live Demo
+                        </Button>
+                        <Button href={props.source} target='_blank' variant='secondary'>
+                            Source Code
+                        </Button>
+                        </div>
                </div>
            </a>
-        </div>
+        </CardGroup>
     )
 }
 

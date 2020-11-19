@@ -9,12 +9,13 @@ class Projects extends Component {
 
     render () {
         return(
-            <div id="Projects">
-                <header>
+            <div id="Projects" class="project-container">
+                <h1 className="project-header">
                     Projects
-                </header>
+                </h1>
 
                 <container>
+                    <div className="project-row">
                     {this.state.projects.map(project => (
                         <Project
                         id={project.id}
@@ -24,6 +25,7 @@ class Projects extends Component {
                         link={project.link}
                         />
                     ))}
+                    </div>
                 </container>
             </div>
             );

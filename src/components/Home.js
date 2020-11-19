@@ -109,7 +109,7 @@ const Home = () => {
         </div>
         {/* // */}
 
-        <button className="button" onClick={() => scroll.scrollTo('Projects')}>
+        <button className="button" onClick={() => scroll.scrollTo(1630)}>
         View My Work
         </button>
       </motion.div>
