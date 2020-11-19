@@ -202,6 +202,21 @@
     background-color: rgb(158, 173, 238);
     }
 
+    .footer {
+      background: rgb(50, 50, 87);
+      color: hsla(0,0%,100%,.5);
+      font-family: 'Ubuntu', sans-serif;
+      width: 100%;
+      height: 100px;
+      position: relative;
+      padding-top: 18px;
+      text-align: center;
+    }
+    
+    p {
+      font-size: 15px;
+    }
+
   
   
   .profile-image {
