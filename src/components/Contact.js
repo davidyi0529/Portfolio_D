@@ -32,6 +32,20 @@ const Contact = () => {
                 </Button>
               </a>
             </div>
+            <div className="m-2">
+              <a href="https://david-yi-0529.medium.com/" target="_blank" rel="noopener noreferrer">
+                <Button variant="outline-success" title="My other projects">
+                  <i className="fab fa-medium"></i> Medium
+                </Button>
+              </a>
+            </div>
+            <div className="m-2">
+              <a href="https://github.com/davidyi0529/Updated-Portfolio_D/blob/main/assets/images/Resume.PDF" target="_blank" rel="noopener noreferrer">
+                <Button variant="outline-warning" title="My other projects">
+                  Resume
+                </Button>
+              </a>
+            </div>
           </Col>
         </Row>
       </Jumbotron>
