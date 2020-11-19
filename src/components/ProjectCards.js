@@ -18,7 +18,7 @@ function ProjectCards(props) {
                        <p className="card-text">{props.name}</p>
                    </div>
                    <div className='btn-grp'>
-                        <Button href={props.demo} target='_blank'>
+                        <Button href={props.link} target='_blank'>
                             Live Demo
                         </Button>
                         <Button href={props.source} target='_blank' variant='secondary'>

@@ -18,10 +18,9 @@ class Projects extends Component {
                     <div className="project-row">
                     {this.state.projects.map(project => (
                         <Project
-                        id={project.id}
                         name={project.name}
                         image={project.image}
-                        description={project.description}
+                        source={project.source}
                         link={project.link}
                         />
                     ))}

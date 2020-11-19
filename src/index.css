@@ -181,7 +181,6 @@
     transition: all 0.2s ease-in 0s;
   }
   
-  /* Contact */
   .contact-container {
     font-family: "Exo 2", sans-serif;
     display: flex;
@@ -201,7 +200,6 @@
     width: 170px;
     border: 1px solid black;
     border-radius: 50%;
-    /* background-image: url("./images/junaid.png"); */
     background-size: cover;
     height: 170px;
   }
@@ -213,13 +211,14 @@
 }
 .card {
   background-color: rgb(29, 27, 27);
-  font-size: 18px;
+  font-size: 40px;
   text-transform: uppercase;
 }
 
 .card-text {
   font-size: 10px;
   color: white;
+  font-weight: bold;
 }
 .btn-grp {
   width: 100%;
