@@ -1,5 +1,15 @@
 import React from "react";
 import "./../index.css";
+import HTML from "../images/html.svg";
+import CSS from "../images/css.svg";
+import Javascript from "../images/javascript.svg";
+import Reactlogo from "../images/react.svg";
+import Node from "../images/node.svg";
+import Bootstrap from "../images/Bootstrap.svg";
+import Heroku from "../images/Heroku.svg";
+import Git from "../images/Git.svg";
+import MySql from "../images/MySql.svg";
+import Mongodb from "../images/mongodb.svg";
 
 const About = () => {
   return (
@@ -32,28 +42,19 @@ const About = () => {
          
           </p>
   
-      <div className="techs">
-        <li>
-          <i className="fab html fa-html5"></i> <p>HTML5</p>
-        </li>
-        <li>
-          <i className="fab css fa-css3"></i>
-          <p>CSS3</p>
-        </li>
-        <li>
-          <i className="fab bootstrap fa-bootstrap"></i>
-          <p>Bootstrap</p>
-        </li>
-        <li>
-          <i className="fab javascript fa-js"></i>
-          <p>Javascript</p>
-        </li>
-        <li>
-          <i className="fab react fa-react"></i>
-          <p>React</p>
-        </li>
-
-      </div>
+          <div className="skills-lang">
+                            <img src={HTML} alt="HTML" /> &nbsp; 
+                            <img src={CSS} alt="CSS" /> &nbsp; 
+                            <img src={Javascript} alt="Javascript" /> &nbsp; 
+                            <img src={Reactlogo} alt="Reactlogo" /> &nbsp; 
+                            <img src={Node} alt="Node" /> &nbsp;
+                            <br /> <br />
+                            <img src={Bootstrap} alt="Bootstrap" /> &nbsp; 
+                            <img src={Heroku} alt="Heroku" /> &nbsp; 
+                            <img src={Git} alt="Git" /> &nbsp; 
+                            <img src={MySql} alt="MySql" /> &nbsp;
+                            <img src={Mongodb} alt="Mongodb" /> &nbsp;
+          </div><br />
     </section>
   );
 };
