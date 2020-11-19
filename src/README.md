@@ -1,4 +1,4 @@
-<img src="https://github.com/davidyi0529/Portfolio_D_Old/blob/master/assets/images/logo.png?raw=true" alt="alt text" title="David Yi">
+<img src="https://raw.githubusercontent.com/davidyi0529/Portfolio_D/main/public/mylogo.ico" width="80" height="80" alt="alt text" title="David Yi">
 
 <br />
 
@@ -13,22 +13,23 @@
 <br />
 
 ### Link to the App Repo 
-- 
+- https://github.com/davidyi0529/Portfolio_D
 
 ### Link to Deployed App
--
+- https://davidyi0529.github.io/Portfolio_D/
 
 <br />
 
-Portfolio_D
+Portfolio_D is an updated Portfolio using React.
 
 <br />
 
 ### Screenshots of application:
 
-<img src="" width="800" height="600">
-
-[<img src="" width="800" height="600">]()
+<img src="https://github.com/davidyi0529/Portfolio_D/blob/main/public/Images/landingpage.png?raw=true" width="800" height="600">
+<img src="https://github.com/davidyi0529/Portfolio_D/blob/main/public/Images/aboutme.png?raw=true" width="800" height="600">
+<img src="https://github.com/davidyi0529/Portfolio_D/blob/main/public/Images/Projectpage.png?raw=true" width="800" height="600">
+<img src="https://github.com/davidyi0529/Portfolio_D/blob/main/public/Images/contactandfooter.png?raw=true" width="800" height="600">
 
 <br />
 <br />
