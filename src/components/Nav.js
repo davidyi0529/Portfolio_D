@@ -76,14 +76,14 @@ const Nav = () => {
           <Link
             className="anchor"
             activeClass="active"
-            to="portfolio"
+            to="Projects"
             delay={100}
             spy={true}
             smooth={true}
             offset={0}
             duration={500}
           >
-            Portfolio
+            Projects
           </Link>
         </li>
 

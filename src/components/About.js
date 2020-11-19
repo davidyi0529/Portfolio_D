@@ -20,27 +20,16 @@ const About = () => {
       id="about"
     >
       <h1 className="heading">About Me</h1>
-          <h3>
+          <h2>
             <i>Hi, I'm David</i>
-          </h3>
-          <p>
-            
-            
-          </p>
-          <h3>
-            <i>Where I'm From</i>
-          </h3>
-          <p>
-            
-            
-          </p>
-          <h3>
-            <i>Where I'm Headed</i>
-          </h3>
-          <p>
-            
-         
-          </p>
+          </h2>
+            <p>
+                I am a soon to be Full Stack Web Developer in the making.
+                I live in the Bay Area and have been living here my whole life. <br /><br />
+                I enjoy watching sports, listening to music, and playing games.
+                I have been married for 4 years now and enjoy traveling, and spending time in the sun with my wife.
+          
+            </p>
   
           <div className="skills-lang">
                             <img src={HTML} alt="HTML" /> &nbsp; 

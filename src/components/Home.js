@@ -78,11 +78,11 @@ const Home = () => {
         </h1>
         {/* Animate Skill Content */}
 
-        <div className="skill-animation">
+        <div className="about-animation">
           <AnimatePresence>
             {showHeadingOne && (
               <motion.h2
-                className="skill-content"
+                className="about-content"
                 variants={childrenVariants}
                 exit="exit"
                 animate="animate"
@@ -96,7 +96,7 @@ const Home = () => {
           <AnimatePresence>
             {showHeadingTwo && (
               <motion.h2
-                className="skill-content"
+                className="about-content"
                 variants={childrenVariants}
                 exit="exit"
                 animate="animate"
@@ -109,7 +109,7 @@ const Home = () => {
         </div>
         {/* // */}
 
-        <button className="button" onClick={() => scroll.scrollTo('Portfolio')}>
+        <button className="button" onClick={() => scroll.scrollTo('Projects')}>
         View My Work
         </button>
       </motion.div>

@@ -1,0 +1,44 @@
+[
+      {
+        "id": 1,
+        "name": "Project One",
+        "image": "https://via.placeholder.com/300",
+        "description": "A page that tracks time and lets you store notes.",
+        "link": "https://dcuadra85.github.io/5-calender-time-api/"
+      },
+      {
+        "id": 2,
+        "name": "Project Two",
+        "image": "https://via.placeholder.com/300",
+        "description": "A page that tracks time and lets you store notes.",
+        "link": "https://dcuadra85.github.io/5-calender-time-api/"
+      },
+      {
+        "id": 3,
+        "name": "Project Three",
+        "image": "https://via.placeholder.com/300",
+        "description": "A page that tracks time and lets you store notes.",
+        "link": "https://dcuadra85.github.io/5-calender-time-api/"
+      },
+      {
+        "id": 4,
+        "name": "Project Four",
+        "image": "https://via.placeholder.com/300",
+        "description": "A page that tracks time and lets you store notes.",
+        "link": "https://dcuadra85.github.io/5-calender-time-api/"
+      },
+      {
+        "id": 5,
+        "name": "Project Five",
+        "image": "https://via.placeholder.com/300",
+        "description": "A page that tracks time and lets you store notes.",
+        "link": "https://dcuadra85.github.io/5-calender-time-api/"
+      },
+      {
+        "id": 6,
+        "name": "Project Six",
+        "image": "https://via.placeholder.com/300",
+        "description": "A page that tracks time and lets you store notes.",
+        "link": "https://dcuadra85.github.io/5-calender-time-api/"
+      }
+  ]
