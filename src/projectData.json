@@ -46,5 +46,13 @@
         "description": "test",
         "link": "https://davidyi0529.github.io/Weather-Dashboard_D/",
         "source": "https://github.com/davidyi0529/Weather-Dashboard_D"
+      },
+      {
+        "id": 7,
+        "name": "Google-Books-Search_D",
+        "image": "https://github.com/davidyi0529/Google-Books-Search_D/raw/main/client/public/img/Searchpage.png?raw=true",
+        "description": "test",
+        "link": "https://google-books-search-d.herokuapp.com/",
+        "source": "https://github.com/davidyi0529/Google-Books-Search_D"
       }
   ]
