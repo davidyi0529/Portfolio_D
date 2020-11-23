@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio_D/static/css/main.79b45128.chunk.css",
+    "main.js": "/Portfolio_D/static/js/main.6e63c08b.chunk.js",
+    "main.js.map": "/Portfolio_D/static/js/main.6e63c08b.chunk.js.map",
+    "runtime-main.js": "/Portfolio_D/static/js/runtime-main.8603bbe2.js",
+    "runtime-main.js.map": "/Portfolio_D/static/js/runtime-main.8603bbe2.js.map",
+    "static/css/2.ec02d681.chunk.css": "/Portfolio_D/static/css/2.ec02d681.chunk.css",
+    "static/js/2.f7e1eb81.chunk.js": "/Portfolio_D/static/js/2.f7e1eb81.chunk.js",
+    "static/js/2.f7e1eb81.chunk.js.map": "/Portfolio_D/static/js/2.f7e1eb81.chunk.js.map",
+    "index.html": "/Portfolio_D/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/Portfolio_D/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.79b45128.chunk.css.map": "/Portfolio_D/static/css/main.79b45128.chunk.css.map",
+    "static/js/2.f7e1eb81.chunk.js.LICENSE.txt": "/Portfolio_D/static/js/2.f7e1eb81.chunk.js.LICENSE.txt",
+    "static/media/Bootstrap.7f61c90d.svg": "/Portfolio_D/static/media/Bootstrap.7f61c90d.svg",
+    "static/media/Git.c53119d0.svg": "/Portfolio_D/static/media/Git.c53119d0.svg",
+    "static/media/Heroku.0ae92222.svg": "/Portfolio_D/static/media/Heroku.0ae92222.svg",
+    "static/media/MySql.0229ddb3.svg": "/Portfolio_D/static/media/MySql.0229ddb3.svg",
+    "static/media/css.850f3dae.svg": "/Portfolio_D/static/media/css.850f3dae.svg",
+    "static/media/homeimage.35d78ad0.svg": "/Portfolio_D/static/media/homeimage.35d78ad0.svg",
+    "static/media/html.98c56f1c.svg": "/Portfolio_D/static/media/html.98c56f1c.svg",
+    "static/media/javascript.dfce7e57.svg": "/Portfolio_D/static/media/javascript.dfce7e57.svg",
+    "static/media/mongodb.33ec1e34.svg": "/Portfolio_D/static/media/mongodb.33ec1e34.svg",
+    "static/media/mylogo.c30de10d.ico": "/Portfolio_D/static/media/mylogo.c30de10d.ico",
+    "static/media/node.b9a3d995.svg": "/Portfolio_D/static/media/node.b9a3d995.svg",
+    "static/media/react.2c2067e6.svg": "/Portfolio_D/static/media/react.2c2067e6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8603bbe2.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.f7e1eb81.chunk.js",
+    "static/css/main.79b45128.chunk.css",
+    "static/js/main.6e63c08b.chunk.js"
+  ]
+}
